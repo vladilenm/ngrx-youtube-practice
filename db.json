@@ -1,0 +1,53 @@
+{
+  "cars": [
+    {
+      "id": 2,
+      "name": "Audi",
+      "date": "04.05.12",
+      "model": "RX6",
+      "isSold": false
+    },
+    {
+      "name": "Mercedes",
+      "date": "22.09.17",
+      "model": "GL",
+      "isSold": true,
+      "id": 3
+    },
+    {
+      "name": "Ford",
+      "date": "22.09.17",
+      "model": "Focus",
+      "isSold": false,
+      "id": 4
+    },
+    {
+      "name": "Ford 2 ",
+      "date": "22.09.17",
+      "model": "Mondeo",
+      "isSold": false,
+      "id": 5
+    },
+    {
+      "name": "dewd",
+      "date": "22.09.17",
+      "model": "edw",
+      "isSold": false,
+      "id": 6
+    },
+    {
+      "name": "d",
+      "date": "22.09.17",
+      "model": "da",
+      "isSold": false,
+      "id": 7
+    },
+    {
+      "name": "dwqdqw",
+      "date": "22.09.17",
+      "model": "dqwdq",
+      "isSold": false,
+      "id": 8
+    }
+  ]
+}
